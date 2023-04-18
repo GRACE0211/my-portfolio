@@ -39,7 +39,7 @@ export default function Home() {
               <li>
                 <Image src={NightMode} onClick={() => setDarkMode(!darkMode)} width={55} height={55} className='cursor-pointer drop-shadow-md' alt='night-mode'/>
               </li>
-              <li><a className='bg-gradient-to-r from-amber-600 to-yellow-500 text-white px-4 py-2 rounded-md ml-8' href="#">Resume</a></li>
+              <li><a className='bg-gradient-to-r from-amber-600 to-yellow-500 text-white px-4 py-2 rounded-md ml-8' href="https://www.cakeresume.com/dashboard?ref=navs_dashboard">Resume</a></li>
             </ul>
           </nav>
           <div className='text-center p-10'>
