@@ -51,10 +51,10 @@ export default function Home() {
             </p>
           </div>
           <div className='text-5xl flex justify-center items-center gap-5'>
-          <a href='mailto:gracejhuo0211@gmail.com'><Image src={Gmail} width={55} height={55} className='mb-10 drop-shadow-md' alt='gmail'/></a>
-            <Image src={Linkedin} width={55} height={55} className='mb-10 drop-shadow-md' alt='linkedin'/>
-            <Image src={Github} width={55} height={55} className='mb-10 drop-shadow-md' alt='github'/>
-          </div>
+            <a href='mailto:gracejhuo0211@gmail.com' target='_blank'><Image src={Gmail} width={55} height={55} className='mb-10 drop-shadow-md' alt='gmail'/></a>
+            <a href='https://www.linkedin.com/in/%E8%BB%92%E4%BA%98-%E5%8D%93-9432791a2/' target='_blank'><Image src={Linkedin} width={55} height={55} className='mb-10 drop-shadow-md' alt='linkedin'/></a>
+            <a href='https://github.com/GRACE0211' target='_blank'><Image src={Github} width={55} height={55} className='mb-10 drop-shadow-md' alt='github'/></a>
+           </div>
           <div className='  shadow-md relative mx-auto bg-amber-700 rounded-full w-60 h-60 overflow-hidden md:h-96 md:w-96' data-aos="fade-right" data-aos-once="true">
             <Image src={ProPic} fill style='cover' data-aos="fade-right" data-aos-once="true" alt='propic'/>
           </div>
