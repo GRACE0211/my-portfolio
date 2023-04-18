@@ -15,14 +15,6 @@ import Code1 from '../public/icons8-keyboard-1500.png'
 import JS from '../public/javaScript.png';
 import BreakfastMenu from '../public/breakfast-menu.png';
 import SurveyForm from '../public/survey-form.png';
-// import ContactList from '../public/contact-list_AdobeExpress_AdobeExpress.mp4';
-// import ToDoListVue from '../public/to-do-list-vue_AdobeExpress_AdobeExpress.mp4';
-// import ShoppingList from '../public/shopping-list_AdobeExpress_AdobeExpress.mp4';
-// import DogImages from '../public/dog-image-app_AdobeExpress_AdobeExpress.mp4';
-// import ShoppingCart from '../public/shopping-cart_AdobeExpress_AdobeExpress.mp4';
-// import ToDoListReact from '../public/to-do-list-react_AdobeExpress.mp4';
-// import ExpenseTracker from '../public/expense-tracker_AdobeExpress_AdobeExpress.mp4';
-// import WeatherApp from '../public/weather-app_AdobeExpress_AdobeExpress.mp4';
 import VideoPlayer from './VideoPlayer.jsx';
 
 
@@ -70,7 +62,7 @@ export default function Home() {
         <section>
           <div>
             <h3 className=' text-amber-600 text-lg font-bold pt-8 pb-2 md:text-3xl drop-shadow-md'>Skills I have:</h3>
-            <p className='text-center md:text-left text-md py-5 leading-8 text-gray-800 md:text-xl mx-10 dark:text-amber-100'>I was self-learning programming during my period of unemployment. The skills I learned included HTML, CSS, JavaScript, Tailwind CSS, Vue.js, and React. I am planning to further improve my skills in VueJS and ReactJS, and learn to use backend frameworks like Node.js and Express in the future.</p>
+            <p className='text-center md:text-left text-md py-5 leading-8 text-gray-800 md:text-xl mx-10 dark:text-amber-100'>I was self-learning programming during my period of unemployment. The skills I learned included HTML, CSS, JavaScript, and frameworks such as Tailwind CSS, Vue.js, and React.js. In the future, I hope to specialize in development using Vue.js and React.js, while also learning Python and SQL to understand how websites store and analyze data, or to use Node.js framework for backend development and database management. I am also open to learning other languages and frameworks.</p>
           </div>
           <div className='  md:flex gap-10 justify-around'>
           <div className=' md:w-1/2 text-center shadow-lg rounded-xl p-10 my-10 bg-gray-100' data-aos="fade-right" data-aos-once="true">
@@ -113,8 +105,6 @@ export default function Home() {
             />
           </div>
           <div className='overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-left" data-aos-once="true">
-          
-            {/* <iframe src={ToDoListVue} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/to-do-list-vue_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
@@ -122,7 +112,6 @@ export default function Home() {
             />
           </div>
           <div className='overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-right" data-aos-once="true">
-            {/* <iframe src={ShoppingList} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/shopping-list_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
@@ -130,7 +119,6 @@ export default function Home() {
             />
           </div>
           <div className='overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-right" data-aos-once="true">
-            {/* <iframe src={DogImages} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/dog-image-app_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
@@ -141,7 +129,6 @@ export default function Home() {
         <h3 className=' text-sky-600 text-lg md:text-2xl font-bold pt-8 pb-2 drop-shadow-md'>REACT:</h3>
         <div className='  flex flex-col gap-10 p-10 lg:flex-row lg:flex-wrap  mb-20 '>
           <div className='items-center flex overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-right" data-aos-once="true">
-            {/* <iframe src={ShoppingCart} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/shopping-cart_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
@@ -149,7 +136,6 @@ export default function Home() {
             />
           </div>
           <div className=' overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-left" data-aos-once="true">
-            {/* <iframe src={ToDoListReact} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/to-do-list-react_AdobeExpress.mp4"
             type="video/mp4"
@@ -157,7 +143,6 @@ export default function Home() {
             />
           </div>
           <div className=' overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-right" data-aos-once="true">
-            {/* <iframe src={ExpenseTracker} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/expense-tracker_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
@@ -165,7 +150,6 @@ export default function Home() {
             />
           </div>
           <div className=' overflow-hidden text-center shadow-lg rounded-lg bg-gray-100 basis-1/3 flex-1 ' data-aos="fade-left" data-aos-once="true">
-            {/* <iframe src={WeatherApp} frameborder="0"  className="rounded-lg object-cover" allowfullscreen/> */}
             <VideoPlayer
             src="/weather-app_AdobeExpress_AdobeExpress.mp4"
             type="video/mp4"
