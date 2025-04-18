@@ -24,23 +24,23 @@
         </ol>
         <div class="social-icons">
           <a href="https://github.com/GRACE0211" target="_blank">
-            <img src="github.png" alt="GitHub" />
+            <img src="/github.png" alt="GitHub" />
           </a>
           <a href="mailto:gracejhuo0211@gmail.com">
-            <img src="gmail.png" alt="Gmail" />
+            <img src="/gmail.png" alt="Gmail" />
           </a>
           <a href="https://www.linkedin.com/in/%E8%BB%92%E4%BA%98-%E5%8D%93-9432791a2/" target="_blank">
-            <img src="linkedin.png" alt="LinkedIn" />
+            <img src="/linkedin.png" alt="LinkedIn" />
           </a>
           <a href="https://www.cake.me/me/gracejhuo0211" target="_blank">
-            <img src="website.png" alt="CakeResume" />
+            <img src="/website.png" alt="CakeResume" />
           </a>
         </div>
       </div>
 
       <!-- 大頭貼一起放在 hero-down 裡 -->
       <div class="hero-pic">
-        <img src="my-avatar.png" alt="Your Photo" />
+        <img src="/my-avatar.png" alt="Your Photo" />
       </div>
     </div>
   
@@ -65,23 +65,23 @@
       <h2>技能</h2>
       <div class="skill-div">
         <div class="skill-card">
-          <img src="html.png" alt="html" />
+          <img src="/html.png" alt="html" />
           <span>HTML</span>
         </div>
         <div class="skill-card">
-          <img src="css.png" alt="css" />
+          <img src="/css.png" alt="css" />
           <span>CSS</span>
         </div>
         <div class="skill-card">
-          <img src="vue.png" alt="vue" />
+          <img src="/vue.png" alt="vue" />
           <span>Vue.js</span>
         </div>
         <div class="skill-card">
-          <img src="php.png" alt="php" />
+          <img src="/php.png" alt="php" />
           <span>PHP</span>
         </div>
         <div class="skill-card">
-          <img src="mysql.png" alt="mysql" />
+          <img src="/mysql.png" alt="mysql" />
           <span>MySQL</span>
         </div>
       </div>
@@ -151,7 +151,7 @@
 <!-- 第一個 左圖右文 -->
         <div class="featured-item">
           <div class="featured-image">
-            <img src="inventory.png" alt="factory-inventory" style="border-radius: 0px;"/>
+            <img src="/inventory.png" alt="factory-inventory" style="border-radius: 0px;"/>
           </div>
           <div class="featured-text">
             <h3 style="">簡易進出貨系統專案</h3>
@@ -173,7 +173,7 @@
   </div>
           </div>
           <div class="featured-image wide">
-            <img src="shopping-cart.jpg" alt="shopping-cart" style="border-radius: 0px;"/>
+            <img src="/shopping-cart.jpg" alt="shopping-cart" style="border-radius: 0px;"/>
           </div>
         </div>
 
@@ -207,7 +207,7 @@
   <div class="job-experience">
     <h3 class="company-name">
   國外行政人員｜鉅恒投資有限公司
-  <img src="CAP.png" alt="CAP logo" class="company-logo">
+  <img src="/CAP.png" alt="CAP logo" class="company-logo">
 </h3>
 
 
@@ -259,27 +259,27 @@ onUnmounted(() => {
 const projects = [
 
 {
-  image: 'contact-list.jpg',
+  image: '/contact-list.jpg',
   description: '透過 Postman 模擬後端 API，支援新增、編輯、刪除聯絡人資料',
 },
 {
-  image: 'expense-tracker.jpg',
+  image: '/expense-tracker.jpg',
   description: '網頁版記帳本，利用React.js製作',
 },
 {
-  image: 'to-do-list.jpg',
+  image: '/to-do-list.jpg',
   description: 'React.js版本的to do list',
 },
 {
-  image: 'shopping-list.jpg',
+  image: '/shopping-list.jpg',
   description: '包含標示已完成以及完整刪除功能',
 },
 {
-  image: 'todolist.png',
+  image: '/todolist.png',
   description: 'Vue.js版本的to do list，強調簡潔排版',
 },
 {
-  image: 'weather-app.jpg',
+  image: '/weather-app.jpg',
   description: '串接氣象局API，更新目前天氣狀況',
 },
 ]
@@ -301,7 +301,7 @@ html, body {
   display: flex;
   flex-direction: column;
   padding: 80px 100px 40px 120px;
-  background: url('newspaper.jpg') no-repeat center center;
+  background: url('/newspaper.jpg') no-repeat center center;
   background-size: cover;
   font-family: "Courier New", Courier, monospace;
 }
