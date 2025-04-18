@@ -65,23 +65,23 @@
       <h2>技能</h2>
       <div class="skill-div">
         <div class="skill-card">
-          <img src="/html.png" alt="html" />
+          <img src="html.png" alt="html" />
           <span>HTML</span>
         </div>
         <div class="skill-card">
-          <img src="/css.png" alt="css" />
+          <img src="css.png" alt="css" />
           <span>CSS</span>
         </div>
         <div class="skill-card">
-          <img src="/vue.png" alt="vue" />
+          <img src="vue.png" alt="vue" />
           <span>Vue.js</span>
         </div>
         <div class="skill-card">
-          <img src="/php.png" alt="php" />
+          <img src="php.png" alt="php" />
           <span>PHP</span>
         </div>
         <div class="skill-card">
-          <img src="/mysql.png" alt="mysql" />
+          <img src="mysql.png" alt="mysql" />
           <span>MySQL</span>
         </div>
       </div>
