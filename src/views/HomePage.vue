@@ -259,27 +259,27 @@ onUnmounted(() => {
 const projects = [
 
 {
-  image: '/contact-list.jpg',
+  image: '/my-portfolio/contact-list.jpg',
   description: '透過 Postman 模擬後端 API，支援新增、編輯、刪除聯絡人資料',
 },
 {
-  image: '/expense-tracker.jpg',
+  image: '/my-portfolio/expense-tracker.jpg',
   description: '網頁版記帳本，利用React.js製作',
 },
 {
-  image: '/to-do-list.jpg',
+  image: '/my-portfolio/to-do-list.jpg',
   description: 'React.js版本的to do list',
 },
 {
-  image: '/shopping-list.jpg',
+  image: '/my-portfolio/shopping-list.jpg',
   description: '包含標示已完成以及完整刪除功能',
 },
 {
-  image: '/todolist.png',
+  image: '/my-portfolio/todolist.png',
   description: 'Vue.js版本的to do list，強調簡潔排版',
 },
 {
-  image: '/weather-app.jpg',
+  image: '/my-portfolio/weather-app.jpg',
   description: '串接氣象局API，更新目前天氣狀況',
 },
 ]
@@ -415,12 +415,13 @@ html, body {
   display: flex;
   justify-content: center;
   gap: 30px;
-  padding: 16px;
+  /* padding: 16px; */
   z-index: 999;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .navbar a {
+  padding: 10px 0;
   font-weight: bold;
   color: rgb(79, 79, 79);
   text-decoration: none;
