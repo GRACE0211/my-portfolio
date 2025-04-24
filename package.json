@@ -2,11 +2,13 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://grace0211.github.io/my-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "vue": "^3.5.13",
@@ -14,6 +16,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
-    "vite": "^6.2.0"
+    "gh-pages": "^6.3.0",
+    "vite": "^6.2.0",
+    "vite-plugin-gh-pages": "^1.0.1"
   }
 }

@@ -17,7 +17,7 @@
       <div class="hero-menu">
         <ol class="menu-list">
           <a href="#skills"><li><span class="menu-number">1.</span><span class="menu-text">skills 技能</span></li></a>
-          <a href="#timeline"><li><span class="menu-number">2.</span><span class="menu-text">timeline 時間線</span></li></a>
+          <a href="#timeline"><li><span class="menu-number">2.</span><span class="menu-text">timeline 時間軸</span></li></a>
           <a href="#story"><li><span class="menu-number">3.</span><span class="menu-text">transfer story 轉職歷程</span></li></a>
           <a href="#portfolio"><li><span class="menu-number">4.</span><span class="menu-text">portfolio 作品集</span></li></a>
           <a href="#job-experience"><li><span class="menu-number">5.</span><span class="menu-text">experience 工作經歷</span></li></a>
@@ -54,7 +54,7 @@
     <!-- Navbar （滑到這邊才黏住） -->
     <nav class="navbar">
       <a href="#skills">技能</a>
-      <a href="#timeline">時間線</a>
+      <a href="#timeline">時間軸</a>
       <a href="#story">轉職歷程</a>
       <a href="#portfolio">作品集</a>
       <a href="#job-experience">工作經歷</a>
@@ -86,13 +86,13 @@
         </div>
       </div>
       <div class='story-div2'>
-        目前主要使用的工具為 VSCode、XAMPP 與 phpMyAdmin，在 Mac 與 Windows 環境下開發前後端整合的小型專案。熟悉 JavaScript 搭配框架 Vue.js，後端使用 PHP 與 MySQL，近期也在精進PHP語法和自學 Python。轉職過程中從實務需求出發，逐步累積 API 串接、資料庫設計與控制程式中的資料流等狀態管理能力。
+        目前主要使用的工具為 <strong style="color:#333; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發前後端整合的小型專案。<strong style="color:#333; text-decoration: underline;">熟悉 JavaScript 搭配框架 Vue.js，後端使用 PHP 與 MySQL</strong>，近期也在精進PHP語法和自學 Python。轉職過程中從實務需求出發，逐步累積 API 串接、資料庫設計與控制程式中的資料流等狀態管理能力。
       </div>
     </section>
 
     <!-- 甘特圖區塊 -->
     <section id="timeline" class="main-section">
-      <h2>待業與自學期間</h2>
+      <h2>轉職時間軸：從前端到後端的學習歷程</h2>
 
       <div class="timeline-list">
         <div class="timeline-item">
@@ -132,13 +132,13 @@
       <h2>轉職歷程</h2>
       <div class='story-div'>
         <div>
-          過去的工作經歷中，我曾管理 1-3人的團隊，負責工作分配與排程協調，也參與過貨櫃內產品的進出貨流程。當時主要透過試算表進行庫存紀錄，讓我深刻體會到，面對大量資料時若缺乏合適的系統工具，會極大地降低效率。這段經驗也促使我在轉職學習時，格外重視「使用者角度」與「系統效率」的平衡。
+          過去的工作經歷中，我曾管理 1-3人的團隊，負責工作分配與排程協調，也參與過貨櫃內產品的進出貨流程。當時主要透過試算表進行庫存紀錄，讓我深刻體會到，<strong>面對大量資料時若缺乏合適的系統工具，會極大地降低效率。這段經驗也促使我在轉職學習時，格外重視「使用者角度」與「系統效率」的平衡。</strong>
       </div>
       <div>
-        原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。
+        原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，<strong>我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。</strong>
 </div>
 <div>
-        這段自學與實作並行的歷程，讓我對技術有了更深層的理解，也更加確立了未來的職涯方向——專注在資料庫設計與管理，打造穩定且具擴展性的系統架構，成為能站在使用者角度解決問題的開發者。
+        這段自學與實作並行的歷程，讓我對技術有了更深層的理解，也更加確立了未來的職涯方向——<strong>專注在資料庫設計與管理，打造穩定且具擴展性的系統架構，成為能站在使用者角度解決問題的開發者。</strong>
       </div>
       </div>
     </section>
@@ -421,7 +421,7 @@ html, body {
 }
 
 .navbar a {
-  padding: 10px 0;
+  padding: 10px 5px;
   font-weight: bold;
   color: rgb(79, 79, 79);
   text-decoration: none;
@@ -546,6 +546,7 @@ html, body {
   text-align: center;
   box-shadow: inset -3px -3px 8px 0px rgb(255, 255, 255), inset 3px 3px 8px 0px rgba(0, 0, 0, 0.37);
   border-radius: 5px;
+  line-height:2.0;
 }
 
 .story-div {
@@ -560,6 +561,7 @@ html, body {
 .story-div > div {
   text-indent: 2em;
   padding: 20px 0;
+  line-height:2.0;
 }
 
 .featured-projects {
