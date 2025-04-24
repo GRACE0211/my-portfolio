@@ -86,7 +86,7 @@
         </div>
       </div>
       <div class='story-div2'>
-        目前主要使用的工具為 <strong style="color:#4d4d4d; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發前後端整合的小型專案。<strong style="color:#4d4d4d; text-decoration: underline;">熟悉 JavaScript 搭配框架 Vue.js，後端使用 PHP 與 MySQL</strong>，近期也在精進PHP語法和自學 Python。轉職過程中從實務需求出發，逐步累積 API 串接、資料庫設計與控制程式中的資料流等狀態管理能力。
+        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發前後端整合的小型專案。<strong style="color:#707070; text-decoration: underline;">熟悉 JavaScript 搭配框架 Vue.js，後端使用 PHP 與 MySQL</strong>，近期也在精進 PHP 語法和自學 Python。轉職過程中從實務需求出發，逐步累積 API 串接、資料庫設計與控制程式中的資料流等狀態管理能力。
       </div>
     </section>
 
@@ -132,13 +132,13 @@
       <h2>轉職歷程</h2>
       <div class='story-div'>
         <div>
-          過去的工作經歷中，我曾管理 1-3人的團隊，負責工作分配與排程協調，也參與過貨櫃內產品的進出貨流程。當時主要透過試算表進行庫存紀錄，讓我深刻體會到，<strong>面對大量資料時若缺乏合適的系統工具，會極大地降低效率。這段經驗也促使我在轉職學習時，格外重視「使用者角度」與「系統效率」的平衡。</strong>
+          過去的工作經歷中，我曾管理 1-3人的團隊，負責工作分配與排程協調，也參與過貨櫃內產品的進出貨流程。當時主要透過試算表進行庫存紀錄，讓我深刻體會到，<strong style="color:#707070;">面對大量資料時若缺乏合適的系統工具，會極大地降低效率。這段經驗也促使我在轉職學習時，格外重視「使用者角度」與「系統效率」的平衡。</strong>
       </div>
       <div>
-        原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，<strong>我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。</strong>
+        原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，<strong style="color:#707070;">我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。</strong>
 </div>
 <div>
-        這段自學與實作並行的歷程，讓我對技術有了更深層的理解，也更加確立了未來的職涯方向——<strong>專注在資料庫設計與管理，打造穩定且具擴展性的系統架構，成為能站在使用者角度解決問題的開發者。</strong>
+        這段自學與實作並行的歷程，讓我對技術有了更深層的理解，也更加確立了未來的職涯方向——<strong style="color:#707070;">專注在資料庫設計與管理，打造穩定且具擴展性的系統架構，成為能站在使用者角度解決問題的開發者。</strong>
       </div>
       </div>
     </section>
