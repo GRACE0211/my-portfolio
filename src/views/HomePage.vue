@@ -84,6 +84,10 @@
           <img src="/mysql.png" alt="mysql" />
           <span>MySQL</span>
         </div>
+        <div class="skill-card">
+          <img src="/c-plus-plus.png" alt="mysql" />
+          <span>Basic C/C++</span>
+        </div>
       </div>
       <div class='story-div2'>
         目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發前後端整合的小型專案。<strong style="color:#707070; text-decoration: underline;">熟悉 JavaScript 搭配框架 Vue.js，後端使用 PHP 與 MySQL</strong>，近期也在精進 PHP 語法和自學 Python。轉職過程中從實務需求出發，逐步累積 API 串接、資料庫設計與控制程式中的資料流等狀態管理能力。
