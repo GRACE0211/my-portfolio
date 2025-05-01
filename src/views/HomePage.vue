@@ -173,7 +173,7 @@
             <p>此前端專案使用 Vue.js 製作，透過串接後端 data.json 資料，實現商品分類顯示與加入購物車功能，並支援多頁切換與即時更新數量。</p>
             
             <div class="button-area">
-    <a class="github-button" href="https://github.com/GRACE0211/breakfast-order-menu" target="_blank">GitHub →</a>
+    <a class="github-button" href="https://grace0211.github.io/breakfast-order-menu/" target="_blank">GitHub →</a>
   </div>
           </div>
           <div class="featured-image wide">
