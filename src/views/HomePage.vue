@@ -90,7 +90,7 @@
         </div>
       </div>
       <div class='story-div2'>
-        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發具前後端整合功能的小型專案。<strong style="color:#707070; text-decoration: underline;">前端部分熟悉 JavaScript 並運用 Vue.js 框架，後端則以 PHP 搭配 MySQL 實作。</strong>未來希望將發展重心放在後端開發，特別關注 API 設計、資料流程優化與資料庫管理等領域。
+        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發具前後端整合功能的小型專案。<strong style="color:#707070; text-decoration: underline;">前端部分熟悉 JavaScript 並運用 Vue.js 框架，後端則以 PHP 搭配 MySQL 實作。</strong>未來希望將發展重心放在後端開發，特別是資料分析視覺化、資料流程優化與資料庫管理等相關領域。
       </div>
     </section>
 
@@ -142,7 +142,7 @@
         原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、程式設計、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。
       </div>
       <div>
-        這段自學與實作並行的歷程，除了讓我對技術有了更深層的理解，也讓我更明確地確立了職涯方向──<strong>未來希望將重心放在後端開發，特別是 API 設計、資料流程優化與資料庫管理等相關領域。</strong>
+        這段自學與實作並行的歷程，除了讓我對技術有了更深層的理解，也讓我更明確地確立了職涯方向──<strong>未來希望將重心放在後端開發與資料庫設計，持續精進資料串接應用與前後端整合技術，致力於打造穩定可靠、具擴展性的網頁系統。</strong>
       </div>
       </div>
     </section>
