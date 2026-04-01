@@ -90,7 +90,7 @@
         </div>
       </div>
       <div class='story-div2'>
-        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">VSCode、XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發具前後端整合功能的小型專案。<strong style="color:#707070; text-decoration: underline;">前端部分熟悉 JavaScript 並運用 Vue.js 框架，後端則以 PHP 搭配 MySQL 實作。</strong>未來希望將發展重心放在後端開發，特別是資料分析視覺化、資料流程優化與資料庫管理等相關領域。
+        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">Visual Studio 2022, VSCode, XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發具前後端整合功能的小型專案。<strong style="color:#707070; text-decoration: underline;">前端部分熟悉 JavaScript 並運用 Vue.js 框架，後端則以 PHP 搭配 MySQL 實作。</strong>未來希望將發展重心放在後端開發，特別是資料分析視覺化、資料流程優化與資料庫管理等相關領域。
       </div>
     </section>
 
@@ -133,7 +133,7 @@
           <div class="timeline-left">七月 2025 - 四月 2026</div>
           <div class="timeline-right">
             <ul>
-              <li>接觸C#，利用 Visual Studio 2022 製作Windows 桌面應用程式</li>
+              <li>學習C#，利用 Visual Studio 2022 製作 Windows 桌面應用程式</li>
               <li>實作專案：銷售資訊儀表板系統、簡易進出貨系統、個人股票儀表板系統</li>
             </ul>
           </div>
