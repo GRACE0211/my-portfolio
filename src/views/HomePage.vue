@@ -120,7 +120,7 @@
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-left">三月 2025 - 四月 2025</div>
+          <div class="timeline-left">三月 2025 - 七月 2025</div>
           <div class="timeline-right">
             <ul>
               <li>精進 SQL、學習 PHP 語法</li>
@@ -128,7 +128,20 @@
             </ul>
           </div>
         </div>
+
+        <div class="timeline-item">
+          <div class="timeline-left">七月 2025 - 四月 2026</div>
+          <div class="timeline-right">
+            <ul>
+              <li>接觸C#，利用 Visual Studio 2022 製作Windows 桌面應用程式</li>
+              <li>實作專案：銷售資訊儀表板系統、簡易進出貨系統、個人股票儀表板系統</li>
+            </ul>
+          </div>
+        </div>
       </div>
+
+
+
     </section>
 
     <!-- 小故事區塊 -->
@@ -136,13 +149,13 @@
       <h2>轉職歷程</h2>
       <div class='story-div'>
         <div>
-          過去的工作經歷中，我曾管理 1-3 人的團隊，負責工作分配與排程協調，也參與過貨櫃內產品的進出貨流程。當時主要透過試算表進行庫存紀錄，讓我深刻體會到，面對大量資料時若缺乏合適的系統工具，會極大地降低效率。這段經驗也促使我在轉職學習時，格外重視「使用者角度」與「系統效率」的平衡。
+          在過去的工作中，<strong>我曾管理 1～3 人的小型團隊，負責排程規劃、工作分配與進出貨資料維護</strong>，並透過 Excel 協助進行庫存與數據管理。期間也需要根據任務優先順序靈活調整流程，並與國外同事透過信件協作處理進出口相關事宜。<strong>這段經驗不僅讓我熟悉行政流程與資料整理，也培養了工作溝通與協調能力。</strong>為了強化自身在資料管理上的技術應用，我開始進一步學習相關工具與系統知識。
       </div>
       <div>
-        原本對程式一知半解的我，從自學 HTML、CSS、JavaScript 起步，一路實作到使用 Vue.js 開發互動式前端專案。在這個過程中，我逐漸意識到資料結構與系統設計的重要性，因此進一步補足了計算機概論、資料結構、程式設計、網路、資料庫等基礎知識，並實際應用於專案中，學會了 API 串接、前後端整合與控制程式中資料流的狀態管理等實務技能。
+        離職後因家庭因素短暫休息的期間，我開始思考如何進一步精進自己，並找到能長期投入且具備發展性的學習目標。於是我開始準備資訊管理研究所考試，補足資料結構、資料庫等基礎知識，並同步進行實作，製作出具備查詢與進出貨管理功能的作品集。在實作過程中，我不僅熟悉了資料庫設計與後端資料處理，也更能從使用者角度出發，思考資料應如何被整合、呈現與應用，進而轉化為具價值的資訊。
       </div>
       <div>
-        這段自學與實作並行的歷程，除了讓我對技術有了更深層的理解，也讓我更明確地確立了職涯方向──<strong>未來希望將重心放在後端開發與資料庫設計，持續精進資料串接應用與前後端整合技術，致力於打造穩定可靠、具擴展性的網頁系統。</strong>
+        結合先前的實務經驗與自學成果，<strong>更加確立了我以「資料管理」為職涯發展方向的目標。</strong>我期待未來能更有效運用工具與邏輯思維來提升行政效率，優化資料處理流程，並協助團隊建立有系統的資訊管理模式，為公司創造更多實質價值。
       </div>
       </div>
     </section>
@@ -151,8 +164,88 @@
     <section id="portfolio" class="main-section">
       <h2>作品集</h2>
       <div class="featured-projects">
+<!-- 第一個 左圖右文 salesdashboard -->
+<div class="featured-item">
+  <div class="featured-image">
+    <img src="/salesdashboard.png" alt="sales-dashboard" style="border-radius: 0px;" />
+  </div>
 
-<!-- 第一個 左圖右文 -->
+  <div class="featured-text">
+    <h3>銷售資訊儀表板系統</h3>
+
+    <p>
+      本專案為一套以 Visual Studio 2022 開發、採用 Windows Forms 框架的桌面型應用程式，
+      使用 C# 語言撰寫，並搭配 MySQL 資料庫進行資料管理與用戶驗證。
+    </p>
+
+    <p>
+      系統以「銷售資訊視覺化」為核心，結合圖表、分類檢視與登入權限管理，
+      提供企業內部快速掌握銷售狀況與市場分布的解決方案。
+    </p>
+
+    <h4>核心模組</h4>
+    <ul>
+      <li>登入系統（LoginForm）</li>
+      <li>銷售明細頁（TabPage - 純表格檢視）</li>
+      <li>Sales Dashboard（使用者介面）</li>
+      <li>Admin Dashboard（管理者介面）</li>
+      <li>SalesMonthlyUserControl（月報表檢視元件）</li>
+    </ul>
+
+    <div class="button-area">
+      <a class="github-button" 
+         href="https://github.com/GRACE0211/SalesDashboard.App" 
+         target="_blank">
+        GitHub →
+      </a>
+    </div>
+  </div>
+</div>
+
+        <!-- 第二個 右圖左文 庫存系統winform -->
+<div class="featured-item">
+  <div class="featured-text">
+    <h4>簡易進出貨系統專案 - Windows 桌面應用程式版</h4>
+
+    <p>
+      本專案為一套以 C# 搭配 WinForm 框架開發的 Windows 桌面應用程式，
+      目標是提供小型企業或商家一個直覺易用的進銷存管理工具。
+    </p>
+
+    <p>
+      系統支援商品進貨、出貨、庫存查詢與歷史交易紀錄管理，
+      並可即時與 MySQL 資料庫串接，確保資料同步與查詢效能。
+    </p>
+
+    <p>
+      系統介面設計注重使用者體驗，透過圖形化操作流程，
+      提升日常庫存管理效率與準確性。
+    </p>
+
+    <h5>技術架構</h5>
+    <ul>
+      <li>前端框架：WinForm（Windows Forms）</li>
+      <li>後端語言：C#</li>
+      <li>資料庫系統：MySQL</li>
+      <li>功能特點：即時資料寫入、條件篩選、視覺化警示（低庫存高亮顯示）</li>
+    </ul>
+
+    <div class="button-area">
+      <a class="github-button" 
+         href="https://github.com/GRACE0211/factory_inventory.App" 
+         target="_blank">
+        GitHub →
+      </a>
+    </div>
+  </div>
+
+  <div class="featured-image">
+    <img src="/inventory.png" alt="factory-inventory" style="border-radius: 0px;" />
+  </div>
+</div>
+
+
+<!-- 第一個 左圖右文 salesdashboard 網頁版 -->
         <div class="featured-item">
           <div class="featured-image">
             <img src="/inventory.png" alt="factory-inventory" style="border-radius: 0px;"/>
@@ -219,20 +312,23 @@
       <div class="job-part">
         <h4>工作內容</h4>
         <ul>
-          <li>貨櫃內產品進出貨的庫存管理</li>
-          <li>透過信件與美國同事及客戶聯絡</li>
-          <li>處理貨櫃進口文件清關</li>
-          <li>審核美國貨櫃司機運送文件</li>
-          <li>客戶申請運送貨櫃的訂單審核</li>
+          <li>管理貨櫃內產品進出貨及庫存紀錄（以 Excel 建立表單系統）</li>
+          <li>與美國同事及客戶溝通協調（信件收發）</li>
+          <li>處理貨櫃進口文件清關（文件處理）</li>
+          <li>客戶申請運送貨櫃的訂單審核（文件審核）</li>
+          <li>依需求即時處理主管臨時交辦事項</li>
+
         </ul>
       </div>
 
       <div class="job-part">
         <h4>貢獻成果</h4>
         <ul>
-          <li>小組工作分配與調度</li>
-          <li>負責安排兩位工讀生的工作</li>
-          <li>訓練過 6 位新人</li>
+          <li>協助管理與調度 2～3 人團隊</li>
+          <li>培訓新進人員 6 名</li>
+          <li>設計工讀生日常工作分配表與追蹤進度</li>
+          
+
         </ul>
       </div>
     </div>
