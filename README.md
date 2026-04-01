@@ -1,10 +1,18 @@
-<<<<<<< HEAD
-# Vue 3 + Vite
+# My Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+這是我的個人作品集網站，使用 Vue.js 與 Vite 開發，並部署於 GitHub Pages。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-=======
-# my-portfolio
-This is my personal webpage.
->>>>>>> bb43026afcaf13911da4c08bf28555226b83d20d
+## 專案內容
+- 個人介紹
+- 技術能力
+- 專案作品展示
+- 聯絡資訊
+
+## 使用技術
+- Vue.js
+- Vite
+- JavaScript
+- HTML / CSS
+
+## 網站連結
+[點我查看作品集](https://grace0211.github.io/my-portfolio/)
