@@ -65,32 +65,36 @@
       <h2>技能</h2>
       <div class="skill-div">
         <div class="skill-card">
-          <img src="/html.png" alt="html" />
-          <span>HTML</span>
-        </div>
-        <div class="skill-card">
-          <img src="/css.png" alt="css" />
-          <span>CSS</span>
-        </div>
-        <div class="skill-card">
-          <img src="/vue.png" alt="vue" />
-          <span>Vue.js</span>
-        </div>
-        <div class="skill-card">
-          <img src="/php.png" alt="php" />
-          <span>PHP</span>
+          <img src="/c-sharp.png" alt="c-sharp" />
+          <span>C#</span>
         </div>
         <div class="skill-card">
           <img src="/mysql.png" alt="mysql" />
           <span>MySQL</span>
         </div>
         <div class="skill-card">
-          <img src="/c-plus-plus.png" alt="mysql" />
+          <img src="/visual-studio-code.png" alt="visual-studio-code" />
+          <span>Visual Studio Code</span>
+        </div>
+        <div class="skill-card">
+          <img src="/visual-studio.png" alt="visual-studio" />
+          <span>Visual Studio 2022</span>
+        </div>
+        <div class="skill-card">
+          <img src="/vue.png" alt="vue" />
+          <span>Vue.js</span>
+        </div>
+        <div class="skill-card">
+          <img src="/c-plus-plus.png" alt="c++" />
           <span>Basic C/C++</span>
         </div>
       </div>
       <div class='story-div2'>
-        目前主要使用的工具為 <strong style="color:#707070; text-decoration: underline;">Visual Studio 2022, VSCode, XAMPP 與 phpMyAdmin</strong>，在 Mac 與 Windows 環境下開發具前後端整合功能的小型專案。<strong style="color:#707070; text-decoration: underline;">前端部分熟悉 JavaScript 並運用 Vue.js 框架，後端則以 PHP 搭配 MySQL 實作。</strong>未來希望將發展重心放在後端開發，特別是資料分析視覺化、資料流程優化與資料庫管理等相關領域。
+        <span class="highlight">目前以 Visual Studio 2022（WinForms）開發 Windows 桌面應用程式，
+        使用 C# 搭配 MySQL，具備從系統架構設計、資料庫建置到 API 串接的完整開發經驗。</span>
+        未來將以行政業務為核心，並運用程式開發與資料處理能力，
+        導入自動化流程以提升作業效率與資料準確性，
+        同時持續精進資料視覺化與資料庫管理相關技術。
       </div>
     </section>
 
@@ -114,7 +118,6 @@
           <div class="timeline-right">
             <ul>
               <li>補足核心知識：計算機概論、資料結構、程式語言、資料庫</li>
-              <li>準備資訊管理研究所一般生考試，成果：成功大學備取第 48 名</li>
             </ul>
           </div>
         </div>
@@ -123,7 +126,7 @@
           <div class="timeline-left">三月 2025 - 七月 2025</div>
           <div class="timeline-right">
             <ul>
-              <li>精進 SQL、學習 PHP 語法</li>
+              <li>精進 SQL、資料庫實作</li>
               <li>實作專案：簡易進出貨系統、網頁版購物車、個人網頁</li>
             </ul>
           </div>
@@ -149,13 +152,13 @@
       <h2>轉職歷程</h2>
       <div class='story-div'>
         <div>
-          在過去的工作中，<strong>我曾管理 1～3 人的小型團隊，負責排程規劃、工作分配與進出貨資料維護</strong>，並透過 Excel 協助進行庫存與數據管理。期間也需要根據任務優先順序靈活調整流程，並與國外同事透過信件協作處理進出口相關事宜。<strong>這段經驗不僅讓我熟悉行政流程與資料整理，也培養了工作溝通與協調能力。</strong>為了強化自身在資料管理上的技術應用，我開始進一步學習相關工具與系統知識。
+          在過去的工作中，<span class="highlight">我曾管理 2～3 人的小型團隊，負責排程規劃、工作分配與進出貨資料維護</span>，並透過 Excel 協助進行庫存與數據管理。期間也需要根據任務優先順序靈活調整流程，並與國外同事透過信件協作處理進出口相關事宜。<span class="highlight">這段經驗不僅讓我熟悉行政流程與資料整理，也培養了工作溝通與協調能力。</span>為了強化自身在資料管理上的技術應用，我開始進一步學習相關工具與系統知識。
       </div>
       <div>
         離職後因家庭因素短暫休息的期間，我開始思考如何進一步精進自己，並找到能長期投入且具備發展性的學習目標。於是我開始準備資訊管理研究所考試，補足資料結構、資料庫等基礎知識，並同步進行實作，製作出具備查詢與進出貨管理功能的作品集。在實作過程中，我不僅熟悉了資料庫設計與後端資料處理，也更能從使用者角度出發，思考資料應如何被整合、呈現與應用，進而轉化為具價值的資訊。
       </div>
       <div>
-        結合先前的實務經驗與自學成果，<strong>更加確立了我以「資料管理」為職涯發展方向的目標。</strong>我期待未來能更有效運用工具與邏輯思維來提升行政效率，優化資料處理流程，並協助團隊建立有系統的資訊管理模式，為公司創造更多實質價值。
+        結合先前的實務經驗與自學成果，<span class="highlight">更加確立了我以「資料管理」為職涯發展方向的目標。</span>我期待未來能更有效運用工具與邏輯思維來提升行政效率，優化資料處理流程，並協助團隊建立有系統的資訊管理模式，為公司創造更多實質價值。
       </div>
       </div>
     </section>
@@ -164,6 +167,51 @@
     <section id="portfolio" class="main-section">
       <h2>作品集</h2>
       <div class="featured-projects">
+        <!-- 第一個 右圖左文 股票winform -->
+<div class="featured-item">
+  <div class="featured-text">
+    <h3>股票儀表板</h3>
+
+    <p>
+      本專案為一套以 C# 搭配 WinForms 框架開發的 Windows 桌面應用程式，
+      作為個人投資管理與分析工具。系統可整合所有持股資訊，
+      即時呈現整體投資績效，包括總損益、報酬率與未實現損益等關鍵指標。
+    </p>
+
+    <p>
+      除了整體分析外，亦支援個股層級的資料檢視，
+      使用者可針對單一股票進行報酬與持倉分析，
+      提供更精細的投資決策依據。
+    </p>
+
+    <p>
+      系統透過串接 TWSE API 取得最新股價資料，
+      並結合資料庫進行即時計算與更新，
+      搭配圖表視覺化呈現投資趨勢。
+    </p>
+
+    <h4>技術架構</h4>
+    <ul>
+      <li>前端框架：WinForms（Windows Forms）</li>
+      <li>後端語言：C#</li>
+      <li>資料庫系統：MySQL</li>
+      <li>資料來源：串接 TWSE API 取得即時股價</li>
+      <li>功能特點：即時資料更新、投資績效計算、資料視覺化呈現</li>
+    </ul>
+
+    <div class="button-area">
+      <a class="github-button" 
+         href="https://github.com/GRACE0211/Stock_Dashboard" 
+         target="_blank">
+        GitHub →
+      </a>
+    </div>
+  </div>
+
+  <div class="featured-image">
+    <img src="/stockdashboard.png" alt="stockdashboard" style="border-radius: 0px;" />
+  </div>
+</div>
 <!-- 第一個 左圖右文 salesdashboard -->
 <div class="featured-item">
   <div class="featured-image">
@@ -171,7 +219,7 @@
   </div>
 
   <div class="featured-text">
-    <h3>銷售資訊儀表板系統</h3>
+    <h3>銷售資訊儀表板</h3>
 
     <p>
       本專案為一套以 Visual Studio 2022 開發、採用 Windows Forms 框架的桌面型應用程式，
@@ -183,14 +231,17 @@
       提供企業內部快速掌握銷售狀況與市場分布的解決方案。
     </p>
 
-    <h4>核心模組</h4>
-    <ul>
-      <li>登入系統（LoginForm）</li>
-      <li>銷售明細頁（TabPage - 純表格檢視）</li>
-      <li>Sales Dashboard（使用者介面）</li>
-      <li>Admin Dashboard（管理者介面）</li>
-      <li>SalesMonthlyUserControl（月報表檢視元件）</li>
-    </ul>
+    <h4><strong>核心模組</strong></h4>
+    
+        <ul>
+        <li>登入系統（LoginForm）</li>
+        <li>銷售明細頁（TabPage - 純表格檢視）</li>
+        <li>Sales Dashboard（使用者介面）</li>
+        <li>Admin Dashboard（管理者介面）</li>
+        <li>SalesMonthlyUserControl（月報表檢視元件）</li>
+      </ul>
+    
+    
 
     <div class="button-area">
       <a class="github-button" 
@@ -205,7 +256,7 @@
         <!-- 第二個 右圖左文 庫存系統winform -->
 <div class="featured-item">
   <div class="featured-text">
-    <h4>簡易進出貨系統專案 - Windows 桌面應用程式版</h4>
+    <h3>簡易進出貨系統專案 - Windows 桌面應用程式版</h3>
 
     <p>
       本專案為一套以 C# 搭配 WinForm 框架開發的 Windows 桌面應用程式，
@@ -222,13 +273,16 @@
       提升日常庫存管理效率與準確性。
     </p>
 
-    <h5>技術架構</h5>
-    <ul>
-      <li>前端框架：WinForm（Windows Forms）</li>
-      <li>後端語言：C#</li>
-      <li>資料庫系統：MySQL</li>
-      <li>功能特點：即時資料寫入、條件篩選、視覺化警示（低庫存高亮顯示）</li>
-    </ul>
+    <h4><strong>技術架構</strong></h4>
+  
+      <ul>
+        <li>前端框架：WinForm（Windows Forms）</li>
+        <li>後端語言：C#</li>
+        <li>資料庫系統：MySQL</li>
+        <li>功能特點：即時資料寫入、條件篩選、視覺化警示（低庫存高亮顯示）</li>
+      </ul>
+    
+    
 
     <div class="button-area">
       <a class="github-button" 
@@ -251,7 +305,7 @@
             <img src="/inventory.png" alt="factory-inventory" style="border-radius: 0px;"/>
           </div>
           <div class="featured-text">
-            <h3 style="">簡易進出貨系統專案</h3>
+            <h3 style="">簡易進出貨系統專案 - 網頁版</h3>
             <p>本專案為一套使用 Vue.js 開發的進出貨管理系統，透過 XAMPP 架設後端 API（PHP 撰寫），並串接 MySQL 資料庫。系統具備基本的前後端資料傳輸與庫存邏輯驗證功能，實作了產品清單、庫存查詢、交易紀錄、新增交易等功能。</p>
             <div class="button-area">
     <a class="github-button" href="https://github.com/GRACE0211/factory-inventory-system" target="_blank">GitHub →</a>
@@ -266,7 +320,7 @@
             <p>此前端專案使用 Vue.js 製作，透過串接後端 data.json 資料，實現商品分類顯示與加入購物車功能，並支援多頁切換與即時更新數量。</p>
             
             <div class="button-area">
-    <a class="github-button" href="https://grace0211.github.io/breakfast-order-menu/" target="_blank">GitHub →</a>
+    <a class="github-button" href="https://grace0211.github.io/breakfast-order-menu/" target="_blank">Webpage →</a>
   </div>
           </div>
           <div class="featured-image wide">
@@ -688,6 +742,13 @@ html, body {
   flex-direction: row-reverse;
 }
 
+.featured-text h4 {
+  margin-bottom: 12px;
+}
+
+.featured-text ul {
+  margin-top: 0;
+}
 /* 圖片設定 */
 .featured-image {
   flex: 0 0 45%;
@@ -929,6 +990,12 @@ footer {
   .navbar{
     font-size: 12px;
   }
+}
+
+.highlight {
+  background-color: #c8c8c8;
+  padding: 2px 6px;
+  border-radius: 6px;
 }
 
 </style>
